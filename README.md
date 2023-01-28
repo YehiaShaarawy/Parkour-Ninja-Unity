@@ -1,4 +1,4 @@
-# Parkour-Ninja
+# Parkour-Ninja 🥷
 The game is about a ninja that keeps on jumping on platforms and blocks to catch all coins which is counted every time he catches it. Our game contains 3 levels, and it gets more difficult when you pass each level.
 
 The setting of the first level is designed to be above the clouds and skyscrapers, the second level places the ninja inside the city, while the last level is in space. As the ninja passes each level, the levels get more difficult.
