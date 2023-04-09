@@ -13,7 +13,7 @@ Until you unpress the key, you will keep moving right, by pressing the (A) key y
 
 Gold Blocks are checkpoints for the player. Red Barriers are prohibited to touch.
 
-#Gameplay Screenshots:
+# Gameplay Screenshots:
 
 <img width="1677" alt="SCR-20230210-s5k" src="https://user-images.githubusercontent.com/65984199/230797830-e9f77b16-089d-4843-9777-3994cfb9a35d.png">
 <img width="1680" alt="SCR-20230210-s3v" src="https://user-images.githubusercontent.com/65984199/230797842-bdc5f943-f372-4e70-adf7-e4a1196a4f6e.png">
