@@ -12,3 +12,9 @@ The difficulty in each level gets harder by barrier blocks that defeats the play
 Until you unpress the key, you will keep moving right, by pressing the (A) key you will move left on the x-axis as well until you unpress it, if you press the (S) key you will go back on the z-axis. As known for jumping, you will have to press the (SPACE) key located down the middle of your keyboard.
 
 Gold Blocks are checkpoints for the player. Red Barriers are prohibited to touch.
+
+#Gameplay Screenshots:
+
+<img width="1677" alt="SCR-20230210-s5k" src="https://user-images.githubusercontent.com/65984199/230797830-e9f77b16-089d-4843-9777-3994cfb9a35d.png">
+<img width="1680" alt="SCR-20230210-s3v" src="https://user-images.githubusercontent.com/65984199/230797842-bdc5f943-f372-4e70-adf7-e4a1196a4f6e.png">
+<img width="1679" alt="SCR-20230210-s6z" src="https://user-images.githubusercontent.com/65984199/230797846-b4d46016-341c-4ada-a1b1-6e48b7331d37.png">
